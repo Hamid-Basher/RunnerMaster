@@ -10,9 +10,6 @@ It is now free and open source and always will be. :clap: :tada:
 </p>
 
 [:camera: See Screenshots](#screenshots)
-
-[:movie_camera: **See the Trailer**](https://youtu.be/MO2yJhgtMes)
-
 ## Screenshots
 
 <p align="center">
